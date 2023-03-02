@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=nitinrai17&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nitinrai17&layout=compact&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nitinrai17&layout=compact&hide=javascript,html,css,java,shaderlab,kotlin,hlsl&theme=radical">
   
 </p>
 <p align = "center">
