@@ -5,22 +5,15 @@
 Here are some ideas to get you started:
 -->
 
-
-<p align="center">
- 
-</p align="center">
-<!--<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
-
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/nitinrai17/nitinrai17"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/nitinrai17"/>
  <img src="https://badges.pufler.dev/commits/monthly/nitinrai17" />
 
 </p>
 
-<!-- <p align="center">
+<p align="center">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</p>   -->
+</p>
 
 <h2 align="center">Technology Stack </h2>
 
