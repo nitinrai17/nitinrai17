@@ -57,7 +57,11 @@ Here are some ideas to get you started:
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nitinrai17&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+</p>
+<p align = "center">
+ <img  src="https://komarev.com/ghpvc/?username=nitinrai17&color=green" />
+</p>
+
  
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
